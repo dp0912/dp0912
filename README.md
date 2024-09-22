@@ -1,6 +1,6 @@
 # 👋 **Dhruvin Patel**
 
-## 🚀 Software Developer | Passionate Creator | Impact Seeker
+## 🚀 Software Engineer | Passionate Creator | Impact Seeker
 
 🌟 As a third-year Software Engineering student at Ontario Tech University, I'm passionate about leveraging technology to build innovative solutions. My journey has equipped me with a solid foundation in C++, Java, and Python.
 
@@ -15,28 +15,7 @@
 ---
 
 **⚡ Skills**
-
-- **Programming Languages:** 
-  - C
-  - C++
-  - Java
-  - SQL
-  - Python
-  - HTML
-  - CSS  
-
-- **Tools:** 
-  - Git
-  - GitHub
-  - VS Code
-  - SolidWorks  
-
-- **Databases:** 
-  - MySQL  
-
-- **Areas of Interest:** 
-  - Software Development
-  - Embedded Systems
-  - AI
-  - Machine Learning
-  - Database Management
+- **Programming Languages:** C, C++, Java, SQL, Python, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code, SolidWorks  
+- **Databases:** MySQL  
+- **Areas of Interest:** Software Development, Embedded Systems, AI, Machine Learning, Database Management
