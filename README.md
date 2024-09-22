@@ -20,7 +20,7 @@
 - **Programming Languages:** C, C++, Java, SQL, Python, HTML, CSS  
 - **Tools:** Git, GitHub, VS Code, SolidWorks  
 - **Databases:** MySQL  
-- **Areas of Interest:** Software Development, Embedded Systems, AI, Machine Learning, Database Management
+- **Areas of Interest:** Software Development, Database Management, Embedded Systems, Data Engineering, System Design, AI, Machine Learning
 
 ---
 
