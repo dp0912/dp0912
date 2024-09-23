@@ -4,7 +4,7 @@
 
 🌟 As a third-year Software Engineering student at Ontario Tech University, I'm passionate about leveraging technology to build innovative solutions. My journey has equipped me with a solid foundation in C++, Java, and Python.
 
-🛠️ I thrive on solving complex problems and am dedicated to creating technology that drives positive change and empowers communities. My interests lie in software development, embedded systems, AI, machine learning, and database management.
+🛠️ I thrive on solving complex problems and am dedicated to creating technology that drives positive change and empowers communities. My interests lie in software development, embedded systems, AI, machine learning, database management, data engineering, and system design.
 
 💡 **Actively seeking co-op/internship opportunities for Summer 2025** where I can apply my skills, gain real-world experience, and contribute to impactful projects. I am eager to collaborate with professionals, tackle challenges, and continue growing as a developer.
 
